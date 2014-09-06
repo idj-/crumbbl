@@ -1,0 +1,47 @@
+html, body {
+	height: 100%;
+	padding-top:20px;
+}
+body {
+	background-color: #222;
+}
+
+.imgbox {
+	box-sizing:border-box;
+	border: 1px solid black;
+	background-color: grey;
+	height: 100%;
+	margin: auto;
+	padding:0;
+	max-width: 802px;
+}
+.w600 {
+	width:602px !important;
+}
+.content	{
+	height: 100%;
+}
+.container {
+	width: 800px;
+}
+#graveyard	{
+	background-image: url('../img/gytop.png'), url('../img/gyrepeat.png');
+	background-position: left top, 0px 190px;
+	background-repeat: no-repeat, repeat-y;
+	background-clip: padding-box;
+}
+#graveyard img {
+}
+.navbar {
+	margin: auto;
+	min-height: initial;
+}
+.navbar-fixed-top	{
+	border-color: #000;
+}
+.nav-tabs li, .nav-pills li {
+	width:33%;
+}
+.nav-tabs li a, .nav-pills li a {
+	color: #000;
+}

@@ -1,0 +1,83 @@
+House of Cards           bakanasaru      3-1          Massey            Lock Spok
+The Underground Pirates  iPirate         1-5          Laoke    Woad Island Wanderers
+Questionable Decisions   Tyth            3-2          DMNZ        The Drowned Gods
+Khornyness               ciderboy        1-2        Sasquatch The Tick vs The Bloodbowl
+
+
+Lock Spok                Massey          0-3          iPirate The Underground Pirates
+House of Cards           bakanasaru      4-1           Tyth    Questionable Decisions
+Woad Island Wanderers    Laoke           2-2         ciderboy          Khornyness
+The Drowned Gods         DMNZ            2-0        Sasquatch The Tick vs The Bloodbowl
+
+
+Lock Spok                Massey          ?-?          Laoke    Woad Island Wanderers
+The Drowned Gods         DMNZ            0-2       bakanasaru        House of Cards
+The Tick vs The BloodbowlSasquatch       ?-?          iPirate The Underground Pirates
+Khornyness               ciderboy        1-0           Tyth    Questionable Decisions
+
+
+Lock Spok                massey          ?-?        Sasquatch The Tick vs The Bloodbowl
+Khornyness               ciderboy        ?-?          DMNZ        The Drowned Gods
+Questionable Decisions   Tyth            ?-?          Laoke    Woad Island Wanderers
+The Underground Pirates  iPirate         ?-?       bakanasaru        House of Cards
+
+
+The Drowned Gods         DMNZ            ?-?          Massey            Lock Spok
+Woad Island Wanderers    Laoke           ?-?        Sasquatch The Tick vs The Bloodbowl
+House of Cards           bakanasaru      ?-?         ciderboy          Khornyness
+The Underground Pirates  iPirate         ?-?           Tyth    Questionable Decisions
+
+
+Lock Spok                Massey          ?-?       bakanasaru        House of Cards
+Woad Island Wanderers    Laoke           ?-?          iPirate The Underground Pirates
+The Drowned Gods         DMNZ            ?-?           Tyth    Questionable Decisions
+The Tick vs The BloodbowlSasquatch       ?-?         ciderboy          Khornyness
+
+
+The Underground Pirates  iPirate         ?-?          Massey            Lock Spok
+Questionable Decisions   Tyth            ?-?       bakanasaru        House of Cards
+Khornyness               ciderboy        ?-?          Laoke    Woad Island Wanderers
+The Tick vs The BloodbowlSasquatch       ?-?          DMNZ        The Drowned Gods
+
+
+Lock Spok                Massey          ?-?          DMNZ        The Drowned Gods
+The Tick vs The BloodbowlSasquatch       ?-?          Laoke    Woad Island Wanderers
+Khornyness               ciderboy        ?-?       bakanasaru        House of Cards
+Questionable Decisions   Tyth            ?-?          iPirate The Underground Pirates
+
+
+Lock Spok                massey          ?-?         ciderboy          Khornyness
+Questionable Decisions   Tyth            ?-?        Sasquatch The Tick vs The Bloodbowl
+The Underground Pirates  iPirate         ?-?          DMNZ        The Drowned Gods
+House of Cards           bakanasaru      ?-?          Laoke    Woad Island Wanderers
+
+
+Khornyness               ciderboy        ?-?          massey            Lock Spok
+The Tick vs The BloodbowlSasquatch       ?-?           Tyth    Questionable Decisions
+The Drowned Gods         DMNZ            ?-?          iPirate The Underground Pirates
+Woad Island Wanderers    Laoke           ?-?       bakanasaru        House of Cards
+
+
+The Tick vs The BloodbowlSasquatch       ?-?          massey            Lock Spok
+The Drowned Gods         DMNZ            ?-?         ciderboy          Khornyness
+Woad Island Wanderers    Laoke           ?-?           Tyth    Questionable Decisions
+House of Cards           bakanasaru      ?-?          iPirate The Underground Pirates
+
+
+Woad Island Wanderers    Laoke           ?-?          massey            Lock Spok
+House of Cards           bakanasaru      ?-?          DMNZ        The Drowned Gods
+The Underground Pirates  iPirate         ?-?        Sasquatch The Tick vs The Bloodbowl
+Questionable Decisions   Tyth            ?-?         ciderboy          Khornyness
+
+
+Questionable Decisions   Tyth            ?-?          massey            Lock Spok
+Khornyness               ciderboy        ?-?          iPirate The Underground Pirates
+The Tick vs The BloodbowlSasquatch       ?-?       bakanasaru        House of Cards
+The Drowned Gods         DMNZ            ?-?          Laoke    Woad Island Wanderers
+
+
+Lock Spok                massey          ?-?           Tyth    Questionable Decisions
+The Underground Pirates  iPirate         ?-?         ciderboy          Khornyness
+House of Cards           bakanasaru      ?-?        Sasquatch The Tick vs The Bloodbowl
+Woad Island Wanderers    Laoke           ?-?          DMNZ        The Drowned Gods
+
