@@ -1,0 +1,9 @@
+---
+title: "Player Hall of Fame"
+layout: "default"
+isPage: true
+---
+
+		<div class="imgbox">
+		<img width="800" src="<%- @cachr('http://bbm.jcmag.fr/BloodBowlManager.WebSite/ImageHallOfFamePlayersCompact.aspx?Id=10859&lang=en-US') %>" alt="Crumbbl Players Hall of Fame">
+		</div>
