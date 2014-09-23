@@ -1,0 +1,9 @@
+---
+title: "Calendar"
+layout: "default"
+---
+
+		<div class="imgbox">
+<% season = "House of Cards           bakanasaru      3-1          Massey            Lock Spok\nThe Underground Pirates  iPirate         1-5          Laoke    Woad Island Wanderers" %>
+<%= @days = season.split /\s\s+/ %>
+</div>	
