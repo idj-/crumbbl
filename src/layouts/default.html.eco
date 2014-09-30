@@ -21,19 +21,11 @@
         <![endif]-->
 
         <div class="content">
-        <nav class="navbar navbar-default" role="navigation">
-        <div class="container">
-            <ul class="nav nav-pills text-center">
+        <div class="list-group pull-left">
                 <% for page in @getCollection("pages").toJSON(): %>
-                    <li<%= if page.id is @document.id then ' class=active' %>>
-                        <a href="<%= page.url.replace(/^\//, "") %>">
-                            <%= page.title %>
-                        </a>
-                    </li>
+                        <a href="<%= page.url.replace(/^\//, "") %>" class="list-group-item<%= if page.id is @document.id then ' active' %>"><%= page.title %></a>
                 <% end %>
-            </ul>
         </div>
-        </nav>
         <%- @content %>
  		</div>
 <!-- 
