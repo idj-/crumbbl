@@ -19,20 +19,11 @@
         <![endif]-->
 
         <div class="content">
-<<<<<<< HEAD
         <div class="list-group fixme">
                 <% for page in @getCollection("pages").toJSON(): %>
                         <a href="<%= page.url.replace(/^\//, "") %>" class="list-group-item<%= if page.id is @document.id then ' active' %>"><%= page.title %></a>
                 <% end %>
-=======
-        <nav class="navbar navbar-default" role="navigation">
-        <div class="container">
-            <ul class="nav nav-pills text-center"><% for page in @getCollection("pages").toJSON(): %>
-                    <li<%= if page.id is @document.id then ' class=active' %>>
-                        <a href="<%= page.url.replace(/^\//, "") %>"><%= page.title %></a>
-                    </li><% end %>
-            </ul>
->>>>>>> calendar
+
         </div>
         <%- @content %>
  		</div>
