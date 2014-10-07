@@ -78,10 +78,10 @@ sup {
   vertical-align: baseline;
 }
 sup {
-  top: -.5em;
+  top: -0.5em;
 }
 sub {
-  bottom: -.25em;
+  bottom: -0.25em;
 }
 img {
   border: 0;
@@ -165,7 +165,7 @@ input[type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
 }
 fieldset {
-  padding: .35em .625em .75em;
+  padding: 0.35em 0.625em 0.75em;
   margin: 0 2px;
   border: 1px solid #c0c0c0;
 }

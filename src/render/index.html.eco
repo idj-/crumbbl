@@ -6,5 +6,5 @@ isPage: true
 
         <div class="imgbox w600">
 		<img width="600"  id="graveyard" 
-		src="<%=@cachr('http://bbm.jcmag.fr/BloodBowlManager.WebSite/ImageGraveyard.aspx?Id=10859&lang=en-US&type=png')%>" alt="Crumbbl Graveyard">
+		src="<%- @cachr('http://bbm.jcmag.fr/BloodBowlManager.WebSite/ImageGraveyard.aspx?Id=10859&lang=en-US&type=png') %>" alt="Crumbbl Graveyard">
 		</div>

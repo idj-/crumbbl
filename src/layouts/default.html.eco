@@ -9,11 +9,9 @@
         <title><%= @getPreparedTitle() %></title>
         <%- @getBlock("meta").toHTML() %>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" type="text/css" href="css/normalize.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-        <link rel="stylesheet" type="text/css" href="css/main.css">
-		<link rel="stylesheet" type="text/css" href="css/crumbbl.css">
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/crumbbl.css">
+<% if @getEnvironment() is 'fruit' then '        <script src="js/vendor/modernizr-2.6.2.min.js"></script>' %>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -21,20 +19,29 @@
         <![endif]-->
 
         <div class="content">
+<<<<<<< HEAD
         <div class="list-group fixme">
                 <% for page in @getCollection("pages").toJSON(): %>
                         <a href="<%= page.url.replace(/^\//, "") %>" class="list-group-item<%= if page.id is @document.id then ' active' %>"><%= page.title %></a>
                 <% end %>
+=======
+        <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <ul class="nav nav-pills text-center"><% for page in @getCollection("pages").toJSON(): %>
+                    <li<%= if page.id is @document.id then ' class=active' %>>
+                        <a href="<%= page.url.replace(/^\//, "") %>"><%= page.title %></a>
+                    </li><% end %>
+            </ul>
+>>>>>>> calendar
         </div>
         <%- @content %>
  		</div>
-<!-- 
+<%= if @document.jq: %>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
- -->    
-
+<% end %>
     <%- @getBlock("scripts").toHTML() %>
  </body>
 </html>
