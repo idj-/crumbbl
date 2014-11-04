@@ -9,6 +9,7 @@ html, body {
 }
 body {
 	background-color: #222;
+	padding: 0 215px;
 }
 
 .imgbox {
@@ -57,7 +58,7 @@ a.list-group-item {
 	border-radius: 0 !important;
 	box-shadow: 3px 2px 2px	#000;
 	font-size: 25px;
-	font-family: "BB info";
+	font-family: "BB info",Sans-Serif;
 }
 
 .fixme	{
